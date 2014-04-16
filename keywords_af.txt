@@ -1,0 +1,16 @@
+golang
+ruby
+python
+numpy
+pydata
+pycon
+rails
+erlang
+elixir
+angularjs
+pottery barn
+crate and barrel
+urban outfitters
+williams sonoma
+cabela's 
+kenneth cole
